@@ -26,6 +26,10 @@ conferenceteam:
   - name: Parag Dave
     role: Conference Committee
     image: team_Parag_Dave.jpg
+  - name: Dewo Nursatrio
+    role: Conference Committee
+    image: owasp_logo.png 
+    
 staff: 
   - name: Mike McCamon 
     role: Associate Executive Director
